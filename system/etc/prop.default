@@ -28,15 +28,13 @@ setupwizard.feature.deferred_setup_suggestion=false
 setupwizard.feature.predeferred_enabled=false
 ro.setupwizard.suppress_d2d=false
 ro.setupwizard.suppress_d2d_nfc=true
-ro.com.google.ime.height_ratio=0.9
 ro.opa.eligible_device=true
 ro.setupwizard.mode=OPTIONAL
-setupwizard.feature.deferred_setup_notification=false
-ro.com.google.gmsversion=9_201901
+ro.com.google.gmsversion=9_201903
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Mon Apr 1 22:46:24 CST 2019
-ro.bootimage.build.date.utc=1554129984
-ro.bootimage.build.fingerprint=Android/sdm660_64/sdm660_64:9/PKQ1/16.2017.1903.050-20190401:user/release-keys
+ro.bootimage.build.date=Tue May 14 19:00:13 CST 2019
+ro.bootimage.build.date.utc=1557831613
+ro.bootimage.build.fingerprint=Android/sdm660_64/sdm660_64:9/PKQ1/16.2017.1905.053-20190513:user/release-keys
 persist.sys.usb.config=none

@@ -62,6 +62,9 @@
 
     <permission name="android.permission.WRITE_MEDIA_STORAGE" >
         <group gid="media_rw" />
+        <!-- Huaqin add for 1820P 1306585 by bailu at 20190507 start -->
+        <group gid="sdcard_rw" />
+        <!-- Huaqin add for 1820P 1306585 by bailu at 20190507 end -->
     </permission>
 
     <permission name="android.permission.ACCESS_MTP" >
